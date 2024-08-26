@@ -1,0 +1,14 @@
+#website-logo {
+  text-align: left;
+}
+
+#navbar-items li {
+  display: inline-block;
+  margin: 0px;
+}
+
+#footer {
+  display: inline-block;
+  position: absolute;
+  bottom: 0;
+}
